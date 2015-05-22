@@ -16,6 +16,10 @@ Define achievable goals for craftsmen to increase their skill and knowledge leve
 - [CAP Theorem](#cap)
 - [NoSQL v. SQL](#nosql)
 
+#### Courses
+
+- [Self-paced Stanford course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+
 #### Relational Models
 
 #### Schemas
@@ -36,6 +40,8 @@ Define achievable goals for craftsmen to increase their skill and knowledge leve
 
 #### ACID
 
+- [Concurrency Control and Recovery](http://db.csail.mit.edu/6.830/lectures/franklin97concurrency.pdf)
+
 ##### Consistency
 
 ##### Replication
@@ -49,6 +55,8 @@ Define achievable goals for craftsmen to increase their skill and knowledge leve
 ###### Restoration
 
 #### Transactions
+
+- [On Transaction Isolation Levels](http://www.oracle.com/technetwork/issue-archive/2010/10-jan/o65asktom-082389.html)
 
 ##### Serializability
 
